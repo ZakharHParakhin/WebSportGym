@@ -40,7 +40,6 @@ and other sport activities in this cool place.<br/><br/>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
-<br/>
 # c. Features to implement | TODO:
 
 #  How to install:
