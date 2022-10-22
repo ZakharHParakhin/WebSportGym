@@ -30,9 +30,13 @@ Concept: Thematic web site for fans of gym.<br/>
 # 📊 Description:
 WebSportGym is a website which is supposed as a project about gym, bodybuilding <br/>
 and other sport activities in this cool place.<br/><br/>
-# <t/>a. Application's features:
+# a. Application's features:
+💡 - under working process, 📗 - completed feature
 
-# <t/>b. Stack of Technologies:
+ <t/> 💡Web-site with ability of comments by a guest
+ <t/> 💡Web-site consist the admin panel
+ <t/> 💡Adaptive design
+# b. Stack of Technologies:
  
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) 
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
@@ -40,8 +44,15 @@ and other sport activities in this cool place.<br/><br/>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
-# <t/>c. Features to implement | TODO:
-
+# c. Features to implement | TODO:
+<t/> Realize a maket of web-site:
+<t/><t/>🔔 Add extra two page for list in menu;
+<t/><t/>🔔 Generate Page with Article from BD;
+<t/> Realize BD according website consists texts and comments like a blog;
+<t/> Add style for all website:
+<t/><t/>🔔 animation 5 (variants: submit-button, menu, background, footer, links);
+<t/><t/>🔔 support adaptive design;
+<t/> Authefication for admin.
 #  How to install:
 
 # How to deploy:
