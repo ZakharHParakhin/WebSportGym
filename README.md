@@ -30,9 +30,9 @@ Concept: Thematic web site for fans of gym.<br/>
 # 📊 Description:
 WebSportGym is a website which is supposed as a project about gym, bodybuilding <br/>
 and other sport activities in this cool place.<br/><br/>
-# a. Application's features:
+# <t/>a. Application's features:
 
-# b. Stack of Technologies:
+# <t/>b. Stack of Technologies:
  
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) 
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
@@ -40,7 +40,7 @@ and other sport activities in this cool place.<br/><br/>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
-# c. Features to implement | TODO:
+# <t/>c. Features to implement | TODO:
 
 #  How to install:
 
